@@ -1,0 +1,21 @@
+﻿  Game.cpp
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(51,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(196,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(349,75): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(349,59): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(374,50): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(375,50): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(405,25): warning C4244: '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(408,32): warning C4244: '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(411,39): warning C4244: '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(417,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\KtoChcesz\source\repos\Project2\Project2\Game.cpp(429,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\KtoChcesz\source\repos\Project2\x64\Debug\Project2.exe
